@@ -1,7 +1,7 @@
 # brain-ro(s)t
 > [!important]
 > This fork is in the process of memeification.
-> Please stand by...
+> Please standby...
 
 > You've gyatt to be rizzing me!
 
