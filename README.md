@@ -1,9 +1,11 @@
 # rouille
+> [!important]
+> This fork is in the process of memeification.
+> Please stand by...
 
-![](https://github.com/bnjbvr/rouille/raw/principale/logo.jpeg)
+> You've gyatt to be rizzing me!
 
-Aren't you _le tired_ from writing Rust programs in English? Do you like saying
-"merde" a lot? Would you like to try something different, in an exotic and
+Aren't you _gyatt_ from writing Rust programs in English? Do you like saying "merde" a lot? Would you like to try something different, in an exotic and
 funny-sounding language? Would you want to bring some French touch to your
 programs?
 
