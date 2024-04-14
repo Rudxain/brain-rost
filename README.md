@@ -15,7 +15,12 @@ Regular Rust is fully-compatible with Russy (sussy Rust), so you can mix both, a
 - goofing around
 - learning raw proc macros
 - mocking the slang (while also enjoying it)
-- [inspiration](https://i.redd.it/jtx4eqqafih91.jpg)
+
+## Inspiration
+- The upstream from which I forked, obviously
+- [C macros](https://i.redd.it/jtx4eqqafih91.jpg)
+- [C#: gen-z edition](https://i.redd.it/vh37k2ep2bcc1.png)
+- ["bussin"](https://github.com/face-hh/bussin), by [FaceDev](https://youtu.be/pgeSGBwtHW8)
 
 ## Other langs
 - Dutch: [roest](https://github.com/jeroenhd/roest)
