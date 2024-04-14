@@ -1,8 +1,4 @@
 # brain-ro(s)t
-> [!important]
-> This fork is in the process of memeification.
-> Please standby...
-
 > You've gyatt to be rizzing me!
 
 Aren't you tired of rizzing Rust programs without skibidi? Do you like saying "yeet" a lot? Would you like to try something different, in an esoteric and funny-sounding language? Would you want to bring some Ohio to your programs?
