@@ -1,0 +1,9 @@
+[package]
+name = "brain_rost"
+version = "0.1.0"
+edition = "2018" # to-do: 2021
+
+[dependencies]
+
+[lib]
+proc-macro = true
