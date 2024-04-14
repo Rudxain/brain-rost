@@ -14,6 +14,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "npc" => "clone",
         "UWU" => "Copy",
         "owo" => "copy",
+        "Based" => "Sized",
         "BlockChain" => "String",
         "nft" => "str",
         "as_nft" => "as_str",
