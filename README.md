@@ -15,6 +15,7 @@ Regular Rust is fully-compatible with Russy (sussy Rust), so you can mix both, a
 - goofing around
 - learning raw proc macros
 - mocking the slang (while also enjoying it)
+- [inspiration](https://i.redd.it/jtx4eqqafih91.jpg)
 
 ## Other langs
 - Dutch: [roest](https://github.com/jeroenhd/roest)
