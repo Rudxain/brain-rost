@@ -49,6 +49,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "yappin" => "println",
         "yap" => "print",
         "rekt" => "break",
+        "ghostin" => "continue",
         "resonance_cascade" => "async",
         "hype" => "await",
         "♾️" => "loop",
