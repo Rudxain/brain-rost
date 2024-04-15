@@ -8,7 +8,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "skibidont" => "no_std",
         "owo" => "core",
         "Roblox" => "Box",
-        "linus_sebastian" => "drop",
+        "linus_sebastian" | "ltt" => "drop",
         "forgor" => "forget",
         "alchemy" => "transmute",
         "npc" => "clone",
