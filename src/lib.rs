@@ -50,7 +50,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "yap" => "print",
         "rekt" => "break",
         "ghostin" => "continue",
-        "resonance_cascade" => "async",
+        "brb" => "async",
         "hype" => "await",
         "♾️" => "loop",
         "dancin" => "move",
