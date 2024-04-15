@@ -101,7 +101,9 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "spanish_inquisition" => "expect",
         "sleep_on" => "while",
         "uwu" => "use",
-        "trans" => "into",
+        "coming_inside" => "into", // 💀
+        "coming_stepbro" => "into_iter", // 💀💀☠️
+        "stepsis" => "iter",
         "mewing" => "enum",
         "Fellas" => "Group",
         "Snoopin" => "Ident",
