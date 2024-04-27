@@ -41,12 +41,12 @@ This is just a fake list of keywords from [here](https://doc.rust-lang.org/book/
 - `unsigned`
 - `fract`
 - `fraction`
-- `ratio`
+- `ratio` # twitter?
 - `rational`
 - `irrational`
 - `algebraic`
 - `transcendental`
-- `real`
+- `real` # nocap frfr
 - `float`
 - `fixed`
 - `incel`
@@ -57,6 +57,9 @@ This is just a fake list of keywords from [here](https://doc.rust-lang.org/book/
 - `vim`
 - `neovim`
 - `vscode`
+- `idea`
+- `ikea`
+- `sublime`
 - `helix`
 - `dna`
 - `quantum`
