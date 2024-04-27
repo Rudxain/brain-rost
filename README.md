@@ -3,9 +3,9 @@
 
 Aren't you tired of rizzing Rust programs without skibidi? Do you like saying "yeet" a lot? Would you like to try something different, in an esoteric and funny-sounding language? Would you want to bring some Ohio to your programs?
 
-**brain-ro(s)t** (brain-rot in Rust) is here to ~~save~~ curse your day, as it allows you to write Rust programs with the power of gen-z/gen-alpha slang and 2010s MLG humor.
+**brain-ro(s)t** (brain-rot in Rust) is here to ~~save~~ curse your day, as it allows you to write Rust software with the power of gen-z/gen-alpha slang and 2010s MLG humor.
 
-Regular Rust is fully-compatible with Russy (sussy Rust), so you can mix both, at your convenience.
+Regular Rust is fully-compatible with Russy (sussy Rust), so you can mix both, at your (in)convenience.
 
 ## Y?
 - goofing around
