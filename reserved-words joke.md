@@ -1,5 +1,5 @@
 # About
-This is just a fake list of keywords from [here](https://doc.rust-lang.org/book/appendix-01-keywords.html#keywords-reserved-for-future-use) meant to be inserted with "Inspect element" (or, more easily, with JS) into the page. This is just for a dumb (future) YT video.
+This is just a fake list of keywords from [here](https://doc.rust-lang.org/book/appendix-01-keywords.html#keywords-reserved-for-future-use), meant to be auto-inserted via JS into the DOM. This is just for a dumb (future) YT video where I intentionally spread "misinformation"
 
 ## ul
 - abstract
