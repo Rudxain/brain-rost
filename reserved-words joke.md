@@ -103,9 +103,11 @@ This is just a fake list of keywords from [here](https://doc.rust-lang.org/book/
 - `bts`
 - `override`
 - `overload`
+- `overkill`
 - `split`
 - `split_into`
 - `explode`
+- `terminate`
 - `priv`
 - `try`
 - `catch`
