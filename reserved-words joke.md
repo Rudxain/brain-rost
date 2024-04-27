@@ -7,6 +7,7 @@ This is just a fake list of keywords from [here](https://doc.rust-lang.org/book/
 - `dispatch`
 - `thread`
 - `job`
+- `terminate`
 - `become`
 - `expect`
 - `assume`
@@ -103,14 +104,13 @@ This is just a fake list of keywords from [here](https://doc.rust-lang.org/book/
 - `taylor`
 - `series`
 - `swift`
-- `bts`
+- `bts` # misspelling of "bits"
 - `override`
 - `overload`
 - `overkill`
 - `split`
 - `split_into`
-- `explode`
-- `terminate`
+- `explode` # PHP moment
 - `priv`
 - `try`
 - `catch`
